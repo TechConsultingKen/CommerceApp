@@ -24,3 +24,8 @@ MVVM- This application uses MVVM for the views and clean architecture for the UR
 
 
 <img src="CommerceDemox/CommerceDemox/Assets.xcassets/Screenshot 2023-09-19 at 9.54.00 AM.png">
+
+
+<img src="CommerceDemox/CommerceDemox/Assets.xcassets/Screenshot 2023-09-19 at 9.54.22 AM.png">
+
+<img src="CommerceDemox/CommerceDemox/Assets.xcassets/Screenshot 2023-09-19 at 9.54.34 AM.png">
